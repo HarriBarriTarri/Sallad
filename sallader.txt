@@ -1,0 +1,16 @@
+# namn;pris;ingredienser 
+Grekisk sallad;85;tomat,gurka,oliv,fetaost,rödlök,oregano
+Caesarsallad;95;romansallad,kyckling,parmesan,krutong,caesardressing
+Falafelsallad;89;falafel,tomatsås,gurka,majs,bladspenat
+Halloumisallad;92;halloumi,tomat,bladspenat,oliv,pesto
+Quinoasallad;88;quinoa,avokado,tomat,spenat,citronvinägrett
+Asiatisk nudelsallad;94;glasnudel,edamame,gurka,morot,sesamdressing
+Italiensk bönsallad;86;kikärt,svartböna,tomat,rödlök,balsamicodressing
+Rödbetssallad;90;rödbeta,getost,valnöt,ruccola,honungsdressing
+Texmexsallad;93;svartböna,majs,avokado,tomat,chilidressing
+Lins- och spenatsallad;84;lins,spenat,rödlök,fetaost,citronvinägrett
+Caprese;87;tomat,mozzarella,basilika,olivolja,svartpeppar
+Mediterransk couscoussallad;89;couscous,oliv,tomat,paprika,fetaost
+Avokadosallad;90;avokado,tomat,gurka,bladspenat,solrosfrö
+Tofusallad;91;tofu,edamame,morot,spenat,sesamdressing
+Bulgursallad;88;bulgur,granatäpple,bladpersilja,tomat,citronvinägrett
